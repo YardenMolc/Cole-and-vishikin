@@ -12,3 +12,9 @@ In the end of the run time , we are getting txt file with the id of the vertex w
 
 
 <h4> Starting the simultation </h4>  
+
+First run simlate.py and enter the number of vertex in the graph
+Secondly , run the master.py and enter the exact same number of vertex
+
+<h3> for ploting the final graph (by color) run plot.py (Thank you Itzik for the helps in ploting the graph) </h3>
+
