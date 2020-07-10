@@ -1,4 +1,4 @@
-# Cole_vishikin-_alg
+# Distributed Algorithm - Cole and vishikin- alg
 
 I searched everywere on the web implemetion of cole and vishiking Distributed Algorithm for graph coloring but I couldnt find any, so I decided to make one by myself
 
